@@ -1,5 +1,4 @@
 # Aprendendo laços!
-
 contador = 1
 
 # Exibir de 1 até 10 repetidamente
@@ -26,3 +25,8 @@ i=0
 while(i<len(frutas)):
   print(frutas[i])
   i = i + 1
+
+print("Exemplo com o for:")
+for fruta in frutas:
+  print(fruta)
+
