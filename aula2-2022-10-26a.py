@@ -1,10 +1,9 @@
 # comando input(): quero permitir que 
 # o usuário digite algo...
-nome = input("Digite seu nome: ")
+nome = input("Digite o seu nome: ")
 
 # pede a idade para o usuário "Qual sua idade?"
-idade = int(input("Digite sua idade: "))
-
+idade = int(input("Digite a sua idade: "))
 
 # comando de saída - exibir na tela
 print(f"Boa noite! Seu nome é {nome}")
